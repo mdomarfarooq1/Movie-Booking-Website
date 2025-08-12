@@ -1,0 +1,44 @@
+:root {
+    --colour-primary: #722ed1;
+    --colour-secondary: #b085f5;
+}
+
+.bg-primary {
+    background-color: var(--colour-primary);
+}
+
+.bg-secondary {
+    background-color: var(--colour-secondary);
+}
+
+.text-primary {
+    color: var(--colour-primary);
+}
+
+.text-secondary {
+    color: var(--colour-secondary);
+}
+
+.bg-error {
+    background-color: #ff0000;
+}
+
+.bg-warning {
+    background-color: #a2840e;
+}
+
+.text-black{
+    color: #000;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.border-primary{
+    border-color: var(--colour-primary);
+}
+
+.border-secondary{
+    border-color: var(--colour-secondary);
+}
